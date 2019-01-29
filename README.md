@@ -12,6 +12,10 @@ Sorry for that some comments in the code are written in Chinese.
 
 
 
+Screenshots fold includes the API website and walkingTKK APP
+
+
+
 To run this Demo, please do following steps:
 
 1. pip install -r requirements.txt
@@ -20,10 +24,11 @@ To run this Demo, please do following steps:
 
 
 
-Then we can visite the following web pages:
+Then we can visite the following web pages with local url address:
 
 1. API list root page, http://127.0.0.1:8000/
 2. API documentation, http://127.0.0.1:8000/documentation/
 3. Administration website (account: admin, pwd: admin12345) , http://127.0.0.1:8000/admin/ 
+
 
 
