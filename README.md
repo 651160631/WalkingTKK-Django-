@@ -12,7 +12,7 @@ Sorry for that some comments in the code are written in Chinese.
 
 
 
-Screenshots fold includes the API website and walkingTKK APP
+Screenshots folder includes the API website and walkingTKK APP
 
 
 
