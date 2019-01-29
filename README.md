@@ -18,8 +18,8 @@ Screenshots folder includes the API website and walkingTKK APP
 
 To run this Demo, please do following steps:
 
-1. pip install -r requirements.txt
-2. open walkingAPP directory (root path)
+1. open walkingAPP directory (root path)
+2. pip install -r requirements.txt
 3. python manage.py runserver 0.0.0.0:8000
 
 
