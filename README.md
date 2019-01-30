@@ -2,7 +2,7 @@
 
 #### API for walkingTKK APP (行走嘉园) based on Django 1.11.7 /  Python 3.5.4
 
-walkingTKK APP is mobile application for students who study in Xiamen Univerisity Tan Tak Kee College. 
+walkingTKK APP is mobile application for students who study in Xiamen Univerisity Tan Kah Kee College. 
 
 In this APP, students can check the information conveniently about Student Affairs System, electricity charge of dormitory, PE lesson attendance. 
 
