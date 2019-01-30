@@ -31,4 +31,10 @@ Then we can visite the following web pages with local url address:
 3. Administration website (account: admin, pwd: admin12345) , http://127.0.0.1:8000/admin/ 
 
 
+The structure of this project is shown below.
 
+![Project Structure](https://github.com/651160631/WalkingTKK-Django-/blob/master/screenshots/WalkingTKK_project_structure.png?raw=true)
+
+
+        
+      
