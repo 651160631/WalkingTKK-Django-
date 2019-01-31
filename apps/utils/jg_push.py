@@ -1,8 +1,8 @@
 import jpush
 from jpush import common
 
-app_key = "80d928cebe5afa05641267ab"
-master_secret = "abcfeb90c20366f438eaa3fc"
+app_key = "000028cebe5afa0500000000"
+master_secret = "0000eb90c20366f400000000"
 
 _jpush = jpush.JPush(app_key, master_secret)
 # _jpush.set_logging("DEBUG")

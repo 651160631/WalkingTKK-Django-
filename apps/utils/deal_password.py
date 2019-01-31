@@ -7,7 +7,7 @@ from cryptography.fernet import Fernet
 
 class Prpcrypt():
     def __init__(self):
-        self.key = b'wdix98DyJkAwtL2Au52Dl-IviK0Od1NtpyajkJYH8888'
+        self.key = b'wdix98DyJkAwtL2Au52Dl-IviK0Od1Ntpyaj00008888'
 
     def encrypt(self, text):
         f = Fernet(self.key)
